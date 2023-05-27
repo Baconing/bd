@@ -1,0 +1,4 @@
+cmake-build-debug
+work
+work/*
+cmake-build-debug/*
