@@ -12,5 +12,5 @@ create table "table_name" ("column1": pk string, "column2": nullable int, "colum
 ```
 OR 
 ```
-create table "table_name" ("column!": pk, "column2")
+create table "table_name" ("column1": pk, "column2")
 ```
