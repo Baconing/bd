@@ -1,6 +1,3 @@
-//
-// Created by bacon on 5/26/23.
-//
 #include <string>
 
 #ifndef BACONDB_TOKEN_H

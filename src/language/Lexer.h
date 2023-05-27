@@ -1,7 +1,3 @@
-//
-// Created by bacon on 5/26/23.
-//
-
 #ifndef BACONDB_LEXER_H
 #define BACONDB_LEXER_H
 
