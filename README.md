@@ -1,5 +1,5 @@
 # bd
-bd is a SQL-like database software with it's own "fork" of SQL adding a type system based on the query rather than the table.
+bd is a SQL-like database software with its own "fork" of SQL adding a type system based on the query rather than the table.
 you can force a type on a column by adding a type after the column name, however it is not required.
 
 bd is a personal project im using to help me store data easily in my projects.
