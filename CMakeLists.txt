@@ -3,4 +3,6 @@ project(bacondb)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(bacondb src/main.cpp src/language/Lexer.cpp src/language/Lexer.h src/language/Token.h)
+file(GLOB_RECURSE SOURCES "src/*.cpp" "src/*.h")
+
+add_executable(bacondb ${SOURCES})
