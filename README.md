@@ -7,7 +7,7 @@ while bd will likely be a server/client system, it will likely also be available
 
 bd is currently in development and is not ready for use.
 
-finally, bd is a way for me to learn C++, so it will likely not be ready for a while
+finally, bd is a way for me to learn C++, so it will likely not be ready for a while, nor will the majority of it follow best practices for C++ development
 
 
 examble bdq (bacon database query) to modify data :
